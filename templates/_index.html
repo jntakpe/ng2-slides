@@ -70,8 +70,13 @@
                 <% }); %>
             </div>
 
+            <div class="col-sm-5 ex-link fade">
+                <pre><code id="link"></code></pre>
+            </div>
+
         </div>
 
+        <script src="bower_components/jquery/dist/jquery.min.js"></script>
         <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
         <script src="bower_components/reveal.js/js/reveal.js"></script>
         <script>
@@ -96,6 +101,18 @@
               { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
               { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
             ]
+          });
+
+          Reveal.addEventListener('slidechanged', function () {
+              var $slide = $('section.stack.present'), $gitLink = $('.ex-link'),
+                  link = $slide.children('section.present').data('ex'), $content = $('#link');
+              if (link) {
+                  $gitLink.addClass('in');
+                  $content.text(link);
+              } else {
+                  $gitLink.removeClass('in');
+                  $content.text('');
+              }
           });
 
         </script>

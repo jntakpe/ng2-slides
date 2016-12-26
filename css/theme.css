@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
-
 @font-face {
     font-family: 'League Gothic';
     src: url("../../lib/font/league_gothic-webfont.eot");
@@ -326,7 +325,7 @@ p code {
     color: #c61e1f;
 }
 
-.git-link {
+.ex-link {
     position: fixed;
     bottom: 10px;
     left: 10px;
