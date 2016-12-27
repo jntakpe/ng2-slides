@@ -37,6 +37,60 @@
             "attr": {
                 "data-ex": "js/destruct.js"
             }
+        },
+        {
+            "filename": "js/param-opt.md",
+            "attr": {
+                "data-ex": "js/param-opt.js"
+            }
+        },
+        {
+            "filename": "js/rest.md",
+            "attr": {
+                "data-ex": "js/rest.js"
+            }
+        },
+        {
+            "filename": "js/classes.md",
+            "attr": {
+                "data-ex": "js/classes.js"
+            }
+        },
+        {
+            "filename": "js/get-set.md",
+            "attr": {
+                "data-ex": "js/get-set.js"
+            }
+        },
+        {
+            "filename": "js/promises.md",
+            "attr": {
+                "data-ex": "js/callbacks.js && js/promises.js"
+            }
+        },
+        {
+            "filename": "js/arrow-fct.md",
+            "attr": {
+                "data-ex": "js/arrow-fct.js && js/bind-this.js"
+            }
+        },
+        {
+            "filename": "js/collections.md",
+            "attr": {
+                "data-ex": "js/collections.js"
+            }
+        },
+        {
+            "filename": "js/template-string.md",
+            "attr": {
+                "data-ex": "js/template-string.js"
+            }
+        },
+        {
+            "filename": "js/module.md",
+            "attr": {
+                "data-ex": "js/rating-service.js && js/exec-module.js"
+            }
         }
     ]
 ]
