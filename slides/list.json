@@ -92,5 +92,13 @@
                 "data-ex": "js/rating-service.js && js/exec-module.js"
             }
         }
+    ],
+    [
+        "ts/typescript.md",
+        "ts/types.md",
+        "ts/enums.md",
+        "ts/return.md",
+        "ts/interface.md"
+
     ]
 ]
