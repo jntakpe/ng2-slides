@@ -98,7 +98,10 @@
         "ts/types.md",
         "ts/enums.md",
         "ts/return.md",
-        "ts/interface.md"
-
+        "ts/interface.md",
+        "ts/param-opt.md",
+        "ts/classes.md",
+        "ts/decorator.md",
+        "ts/libraries.md"
     ]
 ]

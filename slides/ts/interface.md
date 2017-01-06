@@ -6,3 +6,13 @@
             }
         }
 
+| 
+  
+        interface Writer {
+            write(message: string): void;    
+        }
+        
+        
+        function writeUserName(writer: Writer) {
+            writer.write(this.user.name);
+        }
