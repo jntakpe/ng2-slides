@@ -95,13 +95,51 @@
     ],
     [
         "ts/typescript.md",
-        "ts/types.md",
-        "ts/enums.md",
-        "ts/return.md",
-        "ts/interface.md",
-        "ts/param-opt.md",
-        "ts/classes.md",
-        "ts/decorator.md",
+        {
+            "filename": "ts/typescript.md",
+            "attr": {
+                "data-ex": "ts/types.ts"
+            }
+        },
+        {
+            "filename": "ts/enums.md",
+            "attr": {
+                "data-ex": "ts/enum.ts"
+            }
+        },
+        {
+            "filename": "ts/return.md",
+            "attr": {
+                "data-ex": "ts/return.ts"
+            }
+        },
+        {
+            "filename": "ts/interface.md",
+            "attr": {
+                "data-ex": "ts/writer.ts"
+            }
+        },
+        {
+            "filename": "ts/param-opt.md",
+            "attr": {
+                "data-ex": "ts/param-opt.ts"
+            }
+        },
+        {
+            "filename": "ts/classes.md",
+            "attr": {
+                "data-ex": "ts/console-writer.ts"
+            }
+        },
+        {
+            "filename": "ts/decorator.md",
+            "attr": {
+                "data-ex": "ts/decorator.ts"
+            }
+        },
         "ts/libraries.md"
+    ],
+    [
+        "webcomponents/webcomponents.md"
     ]
 ]

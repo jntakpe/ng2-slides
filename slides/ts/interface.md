@@ -14,5 +14,5 @@
         
         
         function writeUserName(writer: Writer) {
-            writer.write(this.user.name);
+            writer.write(user.name);
         }
