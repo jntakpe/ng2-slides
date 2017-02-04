@@ -137,9 +137,31 @@
                 "data-ex": "ts/decorator.ts"
             }
         },
-        "ts/libraries.md"
+        "ts/libraries.md",
+        [
+            "webcomponents/webcomponents.md"
+        ]
     ],
     [
-        "webcomponents/webcomponents.md"
+        "ng2/goals.md",
+        "ng2/component.md",
+        "ng2/template.md"
+    ],
+    [
+        "ng2/template/int/interpol.md",
+        "ng2/template/int/objet.md",
+        "ng2/template/int/erreurs.md",
+        "ng2/template/int/safe.md",
+        "ng2/template/int/change-detect.md",
+        "ng2/template/int/compose-component.md"
+    ],
+    [
+        "ng2/template/bind/binding.md",
+        "ng2/template/bind/binding2.md"
+    ],
+    [
+        "ng2/template/events/events.md",
+        "ng2/template/events/events2.md",
+        "ng2/template/events/events3.md"
     ]
 ]
