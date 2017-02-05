@@ -186,6 +186,8 @@
         "ng2/pipes/number.md",
         "ng2/pipes/percent.md",
         "ng2/pipes/currency.md",
-        "ng2/pipes/date.md"
+        "ng2/pipes/date.md",
+        "ng2/pipes/async.md",
+        "ng2/pipes/own-pipe.md"
     ]
 ]
