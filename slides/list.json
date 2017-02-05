@@ -177,5 +177,15 @@
         "ng2/template/templating/ngstyle.md",
         "ng2/template/templating/ngclass.md"
     ],
-    "ng2/template/tpl.md"
+    "ng2/template/tpl.md",
+    [
+        "ng2/pipes/pipes.md",
+        "ng2/pipes/json.md",
+        "ng2/pipes/slice.md",
+        "ng2/pipes/uplowcase.md",
+        "ng2/pipes/number.md",
+        "ng2/pipes/percent.md",
+        "ng2/pipes/currency.md",
+        "ng2/pipes/date.md"
+    ]
 ]
