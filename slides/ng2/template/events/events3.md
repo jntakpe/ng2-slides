@@ -1,5 +1,6 @@
-    <component [property]="doSomething()"></component>
+        
+        <component [property]="doSomething()"></component>
 
 !=
     
-    <component (event)="doSomething()"></component>
+        <component (event)="doSomething()"></component>
