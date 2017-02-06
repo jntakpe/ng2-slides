@@ -189,5 +189,11 @@
         "ng2/pipes/date.md",
         "ng2/pipes/async.md",
         "ng2/pipes/own-pipe.md"
+    ],
+    [
+        "ng2/di/di.md",
+        "ng2/di/di-ia.md",
+        "ng2/di/decl-dep.md",
+        "ng2/di/enr-dep.md"
     ]
 ]
