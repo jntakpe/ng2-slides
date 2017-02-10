@@ -195,5 +195,15 @@
         "ng2/di/di-ia.md",
         "ng2/di/decl-dep.md",
         "ng2/di/enr-dep.md"
+    ],
+    [
+        "ng2/composant/directives.md",
+        "ng2/composant/selectors.md",
+        "ng2/composant/inputs.md",
+        "ng2/composant/outputs.md",
+        "ng2/composant/lifecycle.md",
+        "ng2/composant/lifecycle2.md",
+        "ng2/composant/composants.md",
+        "ng2/composant/styles.md"
     ]
 ]

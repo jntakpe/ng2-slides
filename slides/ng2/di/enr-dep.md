@@ -11,4 +11,4 @@ Pour enregistrer une dépendance :
 
 Il est aussi possible de déclarer la dépendance directement sur le composant ciblé.
 
-`Angular utilise plusieurs injecteurs cherchant les dépendances des enfants jusqu'au 'root injector"`
+`Angular utilise plusieurs injecteurs cherchant les dépendances des enfants jusqu'au 'root injector'`
