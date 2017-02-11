@@ -205,5 +205,11 @@
         "ng2/composant/lifecycle2.md",
         "ng2/composant/composants.md",
         "ng2/composant/styles.md"
+    ],
+    [
+        "ng2/services/services.md",
+        "ng2/services/title.md",
+        "ng2/services/create-service.md",
+        "ng2/services/inject-service.md"
     ]
 ]
