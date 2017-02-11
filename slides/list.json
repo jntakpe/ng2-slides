@@ -178,6 +178,7 @@
         "ng2/template/templating/ngclass.md"
     ],
     "ng2/template/tpl.md",
+    "ng2/tps/todo-binding.md",
     [
         "ng2/pipes/pipes.md",
         "ng2/pipes/json.md",
