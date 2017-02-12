@@ -2,7 +2,9 @@
     "index.md",
     [
         "intro/aboutme.md",
-        "intro/tourtable.md"
+        "intro/tourtable.md",
+        "intro/installation.md",
+        "intro/sources.md"
     ],
     [
         "js/js.md",
@@ -189,7 +191,8 @@
         "ng2/pipes/currency.md",
         "ng2/pipes/date.md",
         "ng2/pipes/async.md",
-        "ng2/pipes/own-pipe.md"
+        "ng2/pipes/own-pipe.md",
+        "ng2/tps/todo-pipes.md"
     ],
     [
         "ng2/di/di.md",

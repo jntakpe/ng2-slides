@@ -1,10 +1,8 @@
-
 # Angular
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+* Framework web Javascript
+* Open source
+* Développé par Google
+* Stable depuis septembre 2016
+* Multi plateformes
+* Rapide
