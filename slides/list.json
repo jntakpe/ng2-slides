@@ -150,40 +150,80 @@
         "ng2/template.md"
     ],
     [
-        "ng2/template/int/interpol.md",
+        {
+            "filename": "ng2/template/int/interpol.md",
+            "attr": {
+                "data-ex": "interpolation/interpolation.component.ts"
+            }
+        },
         "ng2/template/int/objet.md",
         "ng2/template/int/erreurs.md",
         "ng2/template/int/safe.md",
-        "ng2/template/int/change-detect.md",
+        {
+            "filename": "ng2/template/int/change-detect.md",
+            "attr": {
+                "data-ex": "change-detect/change-detect.component.ts"
+            }
+        },
         "ng2/template/int/compose-component.md"
     ],
     [
         "ng2/template/bind/binding.md",
-        "ng2/template/bind/binding2.md"
+        {
+            "filename": "ng2/template/bind/binding2.md",
+            "attr": {
+                "data-ex": "binding/binding.ts"
+            }
+        }
     ],
     [
         "ng2/template/events/events.md",
         "ng2/template/events/events2.md",
-        "ng2/template/events/events3.md"
+        {
+            "filename": "ng2/template/events/events3.md",
+            "attr": {
+                "data-ex": "events/events.ts"
+            }
+        },
+        {
+            "filename": "ng2/template/local-var.md",
+            "attr": {
+                "data-ex": "local-var/local-var.component.ts"
+            }
+        }
     ],
-    "ng2/template/local-var.md",
     [
         "ng2/template/structure/base.md",
         "ng2/template/structure/ngif.md",
         "ng2/template/structure/ngfor.md",
-        "ng2/template/structure/ngfor2.md",
+        {
+            "filename": "ng2/template/structure/ngfor2.md",
+            "attr": {
+                "data-ex": "struct/struct.ts"
+            }
+        },
         "ng2/template/structure/ngswitch.md"
     ],
     [
         "ng2/template/templating/base.md",
         "ng2/template/templating/ngstyle.md",
-        "ng2/template/templating/ngclass.md"
+        {
+            "filename": "ng2/template/templating/ngclass.md",
+            "attr": {
+                "data-ex": "dirtpl/dir-tpl.component.ts"
+            }
+        }
     ],
     "ng2/template/tpl.md",
     "ng2/tps/todo-binding.md",
     [
         "ng2/pipes/pipes.md",
-        "ng2/pipes/json.md",
+        {
+            "filename": "ng2/pipes/json.md",
+            "attr": {
+                "data-ex": "pipes/pipes.component.ts"
+            }
+        },
         "ng2/pipes/slice.md",
         "ng2/pipes/uplowcase.md",
         "ng2/pipes/number.md",
@@ -195,25 +235,67 @@
         "ng2/tps/todo-pipes.md"
     ],
     [
+        "ng2/rxjs/rxjs.md",
+        "ng2/rxjs/why/disclaimer.html",
+        "ng2/rxjs/how-rx-works/observable.md",
+        "ng2/rxjs/how-rx-works/observer.md",
+        "ng2/rxjs/how-rx-works/marbles.md",
+        "ng2/rxjs/how-rx-works/sync-vs-async.html",
+        "ng2/rxjs/how-rx-works/pull-vs-push.html",
+        "ng2/rxjs/how-rx-works/lazy-obs.md",
+        "ng2/rxjs/create/create.md",
+        "ng2/rxjs/create/from.md",
+        "ng2/rxjs/create/just.md",
+        "ng2/rxjs/create/create-op.md",
+        "ng2/rxjs/create/other-ops.md",
+        "ng2/rxjs/filter/filter.md",
+        "ng2/rxjs/filter/other-filters.md",
+        "ng2/rxjs/transform/map.md",
+        "ng2/rxjs/transform/flatmap.md",
+        "ng2/rxjs/transform/concatmap.md",
+        "ng2/rxjs/transform/switchMap.md",
+        "ng2/rxjs/transform/reduce.md"
+    ],
+    [
         "ng2/di/di.md",
         "ng2/di/di-ia.md",
         "ng2/di/decl-dep.md",
-        "ng2/di/enr-dep.md"
+        {
+            "filename": "ng2/di/enr-dep.md",
+            "attr": {
+                "data-ex": "di/di.component.ts"
+            }
+        }
     ],
     [
         "ng2/composant/directives.md",
         "ng2/composant/selectors.md",
         "ng2/composant/inputs.md",
-        "ng2/composant/outputs.md",
+        {
+            "filename": "ng2/composant/outputs.md",
+            "attr": {
+                "data-ex": "component/item.component.ts"
+            }
+        },
         "ng2/composant/lifecycle.md",
         "ng2/composant/lifecycle2.md",
-        "ng2/composant/composants.md",
+        {
+            "filename": "ng2/composant/composants.md",
+            "attr": {
+                "data-ex": "generated/generated.component.ts"
+            }
+        },
         "ng2/composant/styles.md"
     ],
     [
         "ng2/services/services.md",
         "ng2/services/title.md",
-        "ng2/services/create-service.md",
+        {
+            "filename": "ng2/services/create-service.md",
+            "attr": {
+                "data-ex": "github.service.ts"
+            }
+        },
         "ng2/services/inject-service.md"
     ],
     [
@@ -222,9 +304,19 @@
         "ng2/form/create-form-field.md",
         "ng2/form/form-group.md",
         "ng2/form/create-form-group.md",
-        "ng2/form/form-tpl.md",
+        {
+            "filename": "ng2/form/form-tpl.md",
+            "attr": {
+                "data-ex": "tpl-form/tpl-form.component.ts"
+            }
+        },
         "ng2/form/react-form.md",
-        "ng2/form/react-form2.md",
+        {
+            "filename": "ng2/form/react-form2.md",
+            "attr": {
+                "data-ex": "react-form/react-form.component.ts"
+            }
+        },
         "ng2/form/validateurs.md",
         "ng2/form/validateurs-react.md",
         "ng2/form/validateurs-tpl.md",

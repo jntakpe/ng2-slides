@@ -1,4 +1,4 @@
-# Composants
+## Composants
 
 Il s'agit de directives avec des templates.
 
