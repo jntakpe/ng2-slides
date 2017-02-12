@@ -221,6 +221,12 @@
         "ng2/form/create-form-group.md",
         "ng2/form/form-tpl.md",
         "ng2/form/react-form.md",
-        "ng2/form/react-form2.md"
+        "ng2/form/react-form2.md",
+        "ng2/form/validateurs.md",
+        "ng2/form/validateurs-react.md",
+        "ng2/form/validateurs-tpl.md",
+        "ng2/form/valid-errors.md",
+        "ng2/form/custom-valid.md",
+        "ng2/form/react-modifs.md"
     ]
 ]
