@@ -73,7 +73,7 @@
         {
             "filename": "js/arrow-fct.md",
             "attr": {
-                "data-ex": "js/arrow-fct.js && js/bind-this.js"
+                "data-ex": "js/arrow-fct.js && js/this-bind.js"
             }
         },
         {
@@ -255,6 +255,14 @@
         "ng2/rxjs/transform/concatmap.md",
         "ng2/rxjs/transform/switchMap.md",
         "ng2/rxjs/transform/reduce.md"
+    ],
+    [
+        "ng2/http/http.md",
+        "ng2/http/methods.md",
+        "ng2/http/get-data.md",
+        "ng2/http/transform-data.md",
+        "ng2/http/http-params.md",
+        "ng2/tps/obs-http.md"
     ],
     [
         "ng2/di/di.md",

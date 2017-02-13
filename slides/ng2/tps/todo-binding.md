@@ -10,5 +10,5 @@
 4. Afficher la classe *completed* sur *li* si la tâche est finie
 5. Supprimer la tâche en cliquant sur la croix
 6. Ajouter une tâche en cliquant sur la touche entrée
-7. Sélectionner toutes les tâches en cliquant sur le chevron
+7. Check/uncheck toutes les tâches en cliquant sur le chevron
 8. **Facultatif** Compter les tâches restantes et modifier les tests
