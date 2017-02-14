@@ -265,6 +265,9 @@
         "ng2/tps/obs-http.md"
     ],
     [
+        "ng2/cli/new.md"
+    ],
+    [
         "ng2/di/di.md",
         "ng2/di/di-ia.md",
         "ng2/di/decl-dep.md",
@@ -305,7 +308,8 @@
                 "data-ex": "github.service.ts"
             }
         },
-        "ng2/services/inject-service.md"
+        "ng2/services/inject-service.md",
+        "ng2/tps/service.md"
     ],
     [
         "ng2/form/form.md",
