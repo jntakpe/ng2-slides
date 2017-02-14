@@ -293,7 +293,8 @@
                 "data-ex": "generated/generated.component.ts"
             }
         },
-        "ng2/composant/styles.md"
+        "ng2/composant/styles.md",
+        "ng2/tps/first-comp.md"
     ],
     [
         "ng2/services/services.md",
