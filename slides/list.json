@@ -335,6 +335,7 @@
         "ng2/form/validateurs-tpl.md",
         "ng2/form/valid-errors.md",
         "ng2/form/custom-valid.md",
-        "ng2/form/react-modifs.md"
+        "ng2/form/react-modifs.md",
+        "ng2/tps/react-form.md"
     ]
 ]
